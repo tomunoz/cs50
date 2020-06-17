@@ -23,6 +23,20 @@ body {
     color: tomato;
 }
 
+a:hover {
+    background-color: rgb(21, 255, 0);
+    text-underline-position: below;
+}
+
+li:hover {
+    font-weight: bolder;
+    text-shadow: yellowgreen;
+}
+
+tr:hover {
+    background-color: yellow;
+}
+
 
 /* On screens that are 992px wide or less, the background color is blue */
 
