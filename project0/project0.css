@@ -10,8 +10,17 @@ caption {
 }
 
 body {
-    background-color: tan;
+    background-color: white;
     color: black;
+}
+
+.pagelabel {
+    align-content: center;
+}
+
+#myul {
+    font-weight: bolder;
+    color: tomato;
 }
 
 
