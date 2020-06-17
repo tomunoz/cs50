@@ -37,6 +37,13 @@ tr:hover {
     background-color: yellow;
 }
 
+#file {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
 
 /* On screens that are 992px wide or less, the background color is blue */
 
